@@ -2,4 +2,4 @@
 
 # AUTHOR: ETHNUS TRAINING PROGRAM
 
-organzed by Infosys Foundation-Youth Skilling Program
+organized by Infosys Foundation-Youth Skilling Program
