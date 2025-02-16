@@ -1,0 +1,120 @@
+HTML
+------------------------------------------------
+
+What is HTML?
+================
+
+HTML stands for HyperText Markup Language.
+It is a standard markup language used to create web pages.
+HTML is the backbone of a website, providing the structure and content of a web page.
+HTML is used to define the structure and content of a web page,
+including headings, paragraphs, images, links, forms, tables, lists, and more
+------------------------------------------------
+
+HTML elements?
+================
+
+HTML elements are the building blocks of HTML documents.
+They are represented by tags, which are surrounded by angle brackets (< >).
+There are two types of HTML elements:
+
+* Elements with closing tags (e.g., <p> and </p>)
+* Elements without closing tags (e.g., <img/>)
+
+------------------------------------------------
+
+Block Elements
+-----------------
+
+Block elements are elements that start on a new line and take up the full width available.
+Examples of block elements include:
+
+* <h1> to <h6> (headings)
+* <p> (paragraphs)
+* <ul> and <ol> (unordered and ordered lists)
+
+Inline Elements
+-----------------
+
+Inline elements are elements that do not start on a new line and do not take up the full width
+available.
+Examples of inline elements include:
+
+* <a> (links)
+* <span> (inline text)
+* <img/>
+
+------------------------------------------------
+
+===============================================================================
+Structure Of HTML page
+==========================
+
+<!DOCTYPE html>
+html: 5
+<html>
+    <head></head>
+    <body></body>
+</html>
+-----------------------------
+List in html
+==========================
+* Unordered list: <ul>...</ul>
+* Ordered list: <ol>...</ol>
+* Definition list: <dl>...</dl>
+
+---------------------------------------
+
+Tables in HTML
+================
+
+<table>
+    <tr>
+        <th>Table Header</th>
+        <th>Table Header</th>
+        <th>Table Header</th>
+    </tr>
+    <tr>
+        <td>Amith</td>
+        <td>BE</td>
+        <td>2000</td>
+        <td>CSE</td>
+    </tr>
+<table>
+
+Attributes for table tag
+---------------------------
+
+* border: 1
+* bordercolor: black
+* borderwidth: 1
+* cellpadding: 1
+* cellspacing: 1
+
+What is cellpadding
+-----------------
+
+cellpadding is the space between the cell content and the cell border. It is used to add space
+between the cell content and the cell border.
+
+What is cellspacing
+-----------------
+
+cellspacing is the space between the cell border and the table border. It is used to add space
+between the each cell border.
+
+-----------------------------------------
+
+Create a dropdown
+==========================
+
+    <select name="" id="">
+      <option value="">Select Course</option>
+      <option value="">CSE</option>
+      <option value="">ME</option>
+      <option value="">Robotics</option>
+      <option value="">AI</option>
+      <option value="">Civil Engg</option>
+      <option value="">Commerce</option>
+    </select>
+---------------------------------------------------
